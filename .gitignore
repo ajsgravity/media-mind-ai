@@ -208,3 +208,4 @@ __marimo__/
 
 __pycache__/
 Photos/
+*.pdf

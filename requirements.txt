@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+Pillow
+ultralytics
+mediapipe
+insightface
+onnxruntime
+faiss-cpu
+opencv-python
+streamlit
+scikit-learn
+numpy
+watchdog
